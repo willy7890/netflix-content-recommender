@@ -71,12 +71,9 @@ netflix-content-recommender/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/willy7890/netflix-content-recommender
 cd netflix-content-recommender
 ```
-
-Replace the placeholder with your actual GitHub repository URL.
-
 ### 2. Create a virtual environment
 
 ```bash
